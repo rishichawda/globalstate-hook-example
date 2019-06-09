@@ -1,6 +1,6 @@
 ## global state hook example
 
-Example repository for my article [Managing React application state - without using Redux!](https://rishichawda.now.sh/articles/managing-react-application-state-without-redux/)
+Example repository for my article [Managing React application state - without using Redux!](https://rishikc.com/articles/managing-react-application-state-without-redux)
 
 To setup and run locally,
 
